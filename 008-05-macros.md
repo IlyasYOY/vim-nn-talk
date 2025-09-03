@@ -13,7 +13,7 @@
 // make errors local
 // this code does not compile
 
-err := some1(x); 
+err := some1(x)
 if err != nil {
     return err
 }
